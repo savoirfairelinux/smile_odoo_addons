@@ -65,7 +65,7 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
     "qweb": [
         "static/src/xml/base.xml",
     ],
-    "auto_install": True,
+    "auto_install": False,
     "installable": True,
     "application": False,
 }
