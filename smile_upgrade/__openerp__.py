@@ -88,7 +88,7 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
     "website": "http://www.smile.fr",
     "category": 'Hidden',
     "sequence": 20,
-    "auto_install": True,
+    "auto_install": False,
     "installable": True,
     "application": False,
 }

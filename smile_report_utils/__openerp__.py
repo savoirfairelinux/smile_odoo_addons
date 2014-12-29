@@ -39,7 +39,7 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
     "data": [
         'report/report_header.xml',
     ],
-    "auto_install": True,
+    "auto_install": False,
     "installable": True,
     "application": False,
 }
